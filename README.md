@@ -3,10 +3,8 @@
 A repository with which to practice using git.
 
 ### What is your name?
-
-> Answer goes here
+> Sean Yang
 
 
 ### What is your favorite color?
-
-> Answer goes here
+> Red
